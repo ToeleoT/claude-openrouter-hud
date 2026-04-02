@@ -1,7 +1,9 @@
 # claude-openrouter-hud
 
 A Claude Code plugin that shows your OpenRouter spend and remaining credits in a `claude-hud`-style statusline. Always visible below your input.
-
+---
+![example](./example.png)
+---
 ## What is claude-openrouter-hud?
 
 `claude-openrouter-hud` gives you a compact OpenRouter-specific HUD inside Claude Code.
