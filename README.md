@@ -35,7 +35,7 @@ Inside a Claude Code instance, run the following commands:
 **Step 1: Add the marketplace**
 
 ```text
-/plugin marketplace add ruibowang/claude-openrouter-hud
+/plugin marketplace add ToeleoT/claude-openrouter-hud
 ```
 
 **Step 2: Install the plugin**
