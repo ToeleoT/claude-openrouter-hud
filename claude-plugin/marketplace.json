@@ -1,0 +1,25 @@
+{
+  "name": "claude-openrouter-hud",
+  "owner": {
+    "name": "Rui Bo Wang"
+  },
+  "metadata": {
+    "description": "Claude Code HUD plugin for OpenRouter credits, balance, model, and session cost",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-openrouter-hud",
+      "source": "./",
+      "description": "Claude HUD-inspired segmented OpenRouter statusline with credits progress, remaining balance, model name, and session spend.",
+      "category": "monitoring",
+      "tags": [
+        "openrouter",
+        "hud",
+        "statusline",
+        "credits",
+        "claude-code"
+      ]
+    }
+  ]
+}
