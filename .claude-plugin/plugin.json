@@ -3,14 +3,14 @@
   "description": "OpenRouter credits and session cost HUD for Claude Code with a Claude HUD-inspired segmented statusline",
   "version": "0.1.0",
   "author": {
-    "name": "Rui Bo Wang"
+    "name": "Toe"
   },
   "commands": [
     "./commands/setup.md",
     "./commands/teardown.md"
   ],
-  "homepage": "https://github.com/ruibowang/claude-openrouter-hud",
-  "repository": "https://github.com/ruibowang/claude-openrouter-hud",
+  "homepage": "https://github.com/ToeleoT/claude-openrouter-hud",
+  "repository": "https://github.com/ToeleoT/claude-openrouter-hud",
   "license": "MIT",
   "keywords": [
     "claude-code",
